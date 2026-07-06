@@ -36,21 +36,15 @@ If you prefer running it locally on your machine:
 3. No local build engines, dependency management tools, or local mini-servers are required.
 
 ## Project Structure
-
+```bash
 ├── .github/
-
 │   └── workflows/
-
 │       └── ci.yml          # Automated HTML structure validation
-
 ├── .gitignore              # Environment file filters
-
 ├── index.html              # Semantic HTML markup and comic dialogue
-
 ├── README.md               # Documentation asset
-
 └── style.css               # Structural grid styles and hover state transitions
-
+```
 ## Roadmap
 [ ] Add dark mode support matching native system configurations.
 
