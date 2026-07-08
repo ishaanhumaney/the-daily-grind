@@ -37,9 +37,6 @@ If you prefer running it locally on your machine:
 
 ## Project Structure
 ```bash
-├── .github/
-│   └── workflows/
-│       └── ci.yml          # Automated HTML structure validation
 ├── .gitignore              # Environment file filters
 ├── index.html              # Semantic HTML markup and comic dialogue
 ├── README.md               # Documentation asset
